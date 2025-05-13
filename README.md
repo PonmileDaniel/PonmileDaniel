@@ -47,5 +47,3 @@ I'm a full-stack developer who loves turning ideas into scalable products. I spe
 </div>
 
 ---
-
----
