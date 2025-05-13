@@ -48,8 +48,4 @@ I'm a full-stack developer who loves turning ideas into scalable products. I spe
 
 ---
 
-### 🐍 GitHub Activity Snake
-
-<img src="https://raw.githubusercontent.com/PonmileDaniel/PonmileDaniel/output/snake.svg" alt="Snake animation" />
-
 ---
