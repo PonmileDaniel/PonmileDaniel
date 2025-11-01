@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋, I'm Ndukwe Daniel — a Passionate Software Engineer</h2>
+<h2 align="left">Hi 👋, I'm Ndukwe Daniel — A Software Engineer</h2>
 
-I'm a full-stack developer who loves turning ideas into scalable products. I specialize in building robust backends with Node.js and Express, and crafting interactive UIs with React. Whether it's deploying with Docker, working with MongoDB, or building real-time systems with Socket.IO — I get things done.
+I'm a Software Engineer(Backend Focused) who loves turning ideas into scalable products. I specialize in building robust backends with Node.js and Express, and crafting interactive UIs with React. Whether it's deploying with Docker, working with MongoDB, or building real-time systems with Socket.IO — I get things done.
 
 ---
 
